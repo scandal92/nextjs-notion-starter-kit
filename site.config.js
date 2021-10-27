@@ -7,7 +7,7 @@ module.exports = {
   rootNotionSpaceId: null,
 
   // basic site info (required)
-  name: '北川夕亓的闲散日常',
+  name: '北川夕亓',
   domain: 'https://quilt-curtain-b5c.notion.site/7ee39e341e304947944507ed3ccc9039',
   author: '北川夕亓',
 
