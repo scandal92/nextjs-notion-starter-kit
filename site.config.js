@@ -7,13 +7,13 @@ module.exports = {
   rootNotionSpaceId: null,
 
   // basic site info (required)
-  name: '北川夕亓',
+  name: '北川夕亓的blog',
   domain: 'https://quilt-curtain-b5c.notion.site/f42b6e36d6c741f68aa10f8a2de8fafd',
-  author: '北川夕亓',
+  author: '北川夕亓的blog',
 
   // open graph metadata (optional)
-  description: 'Example site description',
-  socialImageTitle: 'Transitive Bullshit',
+  description: '爱分享，爱生活',
+  socialImageTitle: '北川夕亓的blog',
   socialImageSubtitle: 'Hello World! 👋',
 
   // social usernames (optional)
