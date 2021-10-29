@@ -1,6 +1,6 @@
 module.exports = {
   // where it all starts -- the site's root Notion page (required)
-  rootNotionPageId: '7ee39e341e304947944507ed3ccc9039',
+  rootNotionPageId: 'f42b6e36d6c741f68aa10f8a2de8fafd',
 
   // if you want to restrict pages to a single notion workspace (optional)
   // (this should be a Notion ID; see the docs for how to extract this)
@@ -8,7 +8,7 @@ module.exports = {
 
   // basic site info (required)
   name: '北川夕亓',
-  domain: 'https://quilt-curtain-b5c.notion.site/7ee39e341e304947944507ed3ccc9039',
+  domain: 'https://quilt-curtain-b5c.notion.site/f42b6e36d6c741f68aa10f8a2de8fafd',
   author: '北川夕亓',
 
   // open graph metadata (optional)
