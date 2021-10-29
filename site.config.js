@@ -1,6 +1,6 @@
 module.exports = {
   // where it all starts -- the site's root Notion page (required)
-  rootNotionPageId: 'f42b6e36d6c741f68aa10f8a2de8fafd',
+  rootNotionPageId: 'blog-dd348c4c6649443482bbf122d2fdc050',
 
   // if you want to restrict pages to a single notion workspace (optional)
   // (this should be a Notion ID; see the docs for how to extract this)
@@ -8,12 +8,12 @@ module.exports = {
 
   // basic site info (required)
   name: '北川夕亓的blog',
-  domain: 'https://quilt-curtain-b5c.notion.site/f42b6e36d6c741f68aa10f8a2de8fafd',
+  domain: 'https://quilt-curtain-b5c.notion.site/blog-dd348c4c6649443482bbf122d2fdc050',
   author: '北川夕亓的blog',
 
   // open graph metadata (optional)
-  description: '爱分享，爱生活',
-  socialImageTitle: '北川夕亓的blog',
+  description: '',
+  socialImageTitle: '',
   socialImageSubtitle: 'Hello World! 👋',
 
   // social usernames (optional)
