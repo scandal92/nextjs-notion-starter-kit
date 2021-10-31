@@ -12,8 +12,8 @@ module.exports = {
   author: '北川夕亓的试用合集',
 
   // open graph metadata (optional)
-  description: '',
-  socialImageTitle: '',
+  description: 'Example site description',
+  socialImageTitle: '北川夕亓的试用合集',
   socialImageSubtitle: 'Hello World! 👋',
 
   // social usernames (optional)
