@@ -1,15 +1,15 @@
 module.exports = {
   // where it all starts -- the site's root Notion page (required)
-  rootNotionPageId: 'blog-dd348c4c6649443482bbf122d2fdc050',
+  rootNotionPageId: 'dd348c4c6649443482bbf122d2fdc050',
 
   // if you want to restrict pages to a single notion workspace (optional)
   // (this should be a Notion ID; see the docs for how to extract this)
   rootNotionSpaceId: null,
 
   // basic site info (required)
-  name: '北川夕亓的blog',
-  domain: 'https://quilt-curtain-b5c.notion.site/blog-dd348c4c6649443482bbf122d2fdc050',
-  author: '北川夕亓的blog',
+  name: '北川夕亓试用合集',
+  domain: 'https://quilt-curtain-b5c.notion.site/dd348c4c6649443482bbf122d2fdc050',
+  author: '北川夕亓的试用合集',
 
   // open graph metadata (optional)
   description: '',
