@@ -7,13 +7,13 @@ module.exports = {
   rootNotionSpaceId: null,
 
   // basic site info (required)
-  name: '北川夕亓的技能球',
+  name: '北川夕亓•技能球',
   domain: 'https://quilt-curtain-b5c.notion.site/dd348c4c6649443482bbf122d2fdc050',
-  author: '北川夕亓的技能球',
+  author: '北川夕亓•技能球',
 
   // open graph metadata (optional)
   description: '爱生活 爱分享',
-  socialImageTitle: '北川夕亓的技能球',
+  socialImageTitle: '北川夕亓•技能球',
   socialImageSubtitle: 'Hello World! 👋',
 
   // social usernames (optional)
